@@ -1,2 +1,2 @@
-# motorcycle_data_analysis
+# Motorcycle Data Analysis
 Data analysis applied to motorcycle dataset.
